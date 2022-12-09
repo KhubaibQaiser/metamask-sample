@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), deployed on [Vercel](https://web3-metamask-wallet.vercel.app/)
 
 ## Getting Started
 
@@ -28,7 +28,3 @@ Details:
 - React - UI Lib
 - NextJS - React Framework
 - zustand - State Management Lib
-
-## Try it out
-
-Check out on [Vercel](https://web3-metamask-wallet.vercel.app/)
