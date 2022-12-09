@@ -24,3 +24,11 @@ a {
     background: black;
   }
 }
+
+.container {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
